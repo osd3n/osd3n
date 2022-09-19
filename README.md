@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Den</h1>
 <h3 align="center">Full-stack JS developer from Saint-Petersburg</h3>
 
-- 🔭 I’m currently working on **GrannyHelper**
+- 🔭 I’m currently working on **Placer**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **AI**
-
-- 🤝 I’m looking for help with **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michae1-Jackson?tab=repositories](https://github.com/Michae1-Jackson?tab=repositories)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **denis.osotov.job@gmail.com**
 
