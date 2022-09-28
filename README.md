@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Den</h1>
-<h3 align="center">Full-stack JS developer from Saint-Petersburg</h3>
+<h3 align="center">FullStack JavaScript Developer</h3>
 
 - 🔭 I’m currently working on **Placer**
 
