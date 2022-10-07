@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Den</h1>
 <h3 align="center">FullStack JavaScript Developer</h3>
 
-- 🔭 I’m currently working on **Placer**
+- 🔭 I’m currently searching a job
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michae1-Jackson?tab=repositories](https://github.com/Michae1-Jackson?tab=repositories)
 
