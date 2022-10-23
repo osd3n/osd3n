@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Michae1-Jackson?tab=repositories](https://github.com/Michae1-Jackson?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Michae1-Jackson?tab=repositories)
 
 - 📫 How to reach me **denis.osotov.job@gmail.com**
 
