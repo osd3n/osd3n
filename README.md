@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Den</h1>
 <h3 align="center">JavaScript/TypeScript Developer</h3>
 
-- 🔭 I’m currently searching a job
+- 🔭 I’m currently working
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/denerin?tab=repositories)
 
