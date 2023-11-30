@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/denerin?tab=repositories)
 
