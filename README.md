@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Den</h1>
-<h3 align="center">JavaScript/TypeScript Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🔭 I’m currently working
-
-- 🌱 I’m currently learning **Kubernetes**
-
-- 👨‍💻 All of my projects are available [here](https://github.com/denerin?tab=repositories)
 
 - 📫 How to reach me **denis.osotov.job@gmail.com**
 
